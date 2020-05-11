@@ -1,4 +1,4 @@
-package com.company.project.core;
+package com.kaleidoscope.core;
 
 /**
  * 项目常量
